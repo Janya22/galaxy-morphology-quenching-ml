@@ -73,8 +73,7 @@ This repository supports:
 - `scikit-learn` – classical machine learning
 - `tensorflow` / `keras` or similar frameworks for CNN modeling
 - `matplotlib` & `seaborn` – visualization
-- `astropy` / astronomy libraries for domain-specific data handling (if used)
-
+- `astropy` / astronomy libraries for domain-specific data handling
 ---
 
 ## Dataset Information
