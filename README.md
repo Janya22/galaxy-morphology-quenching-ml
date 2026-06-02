@@ -178,8 +178,8 @@ jupyter notebook CNN.ipynb
 ├── MLP_morphology_classification.ipynb
 ├── tabular_preprocessing.ipynb
 ├── image_preprocessing.ipynb
-├── gz_hubble_faded.csv
-└── F20DL - Project Pitch.pdf
+└── gz_hubble_faded.csv
+
 ```
 
 ---
